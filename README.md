@@ -60,3 +60,6 @@ This project uses Vitest for unit testing. To run the tests, use the following c
 ```bash
 npx vitest
 ```
+
+![image](https://github.com/user-attachments/assets/e0390803-3fc1-4a51-86aa-80f65569068c)
+
