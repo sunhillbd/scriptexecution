@@ -14,8 +14,8 @@ This project provides a solution to resolve the execution order of scripts based
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/vulnerability-script-resolver.git
-    cd vulnerability-script-resolver
+    git clone git@github.com:sunhillbd/scriptexecution.git
+    cd scriptexecution
     ```
 
 2. Install dependencies:
